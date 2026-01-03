@@ -46,7 +46,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mirasurf/pytemplate"
+Homepage = "https://github.com/mirasoth/pytemplate"
 
 [tool.setuptools.packages.find]
 where = ["."]

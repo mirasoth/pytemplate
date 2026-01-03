@@ -1,7 +1,7 @@
-.. mirasurf-py-template documentation master file, created by
+.. your-project-name documentation master file, created by
    sphinx-quickstart
 
-Welcome to mirasurf-py-template's documentation!
+Welcome to your-project-name's documentation!
 ===============================================
 
 .. toctree::
@@ -12,7 +12,7 @@ Welcome to mirasurf-py-template's documentation!
 API Reference
 -------------
 
-.. automodule:: mirasurf_py_template
+.. automodule:: your_project_name
     :members:
     :undoc-members:
     :show-inheritance: 

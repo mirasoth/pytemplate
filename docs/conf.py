@@ -1,8 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
 
-project = 'mirasurf-py-template'
-copyright = '2024, Mirasurf Team'
-author = 'Mirasurf Team'
+project = 'your-project-name'
+copyright = '2025-2026, Mirasoth Inc.'
+author = 'Mirasoth Team'
 release = '0.1.0'
 
 extensions = [

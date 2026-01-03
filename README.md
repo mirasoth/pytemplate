@@ -1,4 +1,4 @@
-# Mirasurf Python Template
+# Mirasoth Python Template
 
 A minimal, production-ready template for building Python libraries with modern development practices.
 
@@ -6,7 +6,7 @@ A minimal, production-ready template for building Python libraries with modern d
 
 ```bash
 # Clone and customize
-git clone https://github.com/mirasurf/pytemplate.git my-library
+git clone https://github.com/mirasoth/your-project-name.git my-library
 cd my-library
 
 # Install development dependencies
@@ -29,4 +29,4 @@ make test
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details. 
+Mirasoth Software License - see [LICENSE](LICENSE) file for details. 
